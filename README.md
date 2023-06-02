@@ -1,2 +1,4 @@
 # OOP.ipynb
 Bike Rental Management System
+
+The Bike Rental Management System is a Python-based application that allows users to rent bikes online. It provides an intuitive interface for users to check bike availability, view prices, book bikes for specified durations, and make payments. The system supports multiple bike types, such as Pulsar, Apache, and R15, each with its own pricing and quantity. Users can book bikes based on availability and duration, with the system ensuring that the requested quantity is within the available stock. The application also includes a query submission feature for users to seek assistance or raise concerns. The project demonstrates object-oriented programming principles, user registration and login functionality, input validation, and database integration for storing user details.
